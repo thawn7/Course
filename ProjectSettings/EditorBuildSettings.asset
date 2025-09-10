@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 0
+    path: Assets/chapter2-3/Scenes/startingScene.unity
+    guid: d7aa710120d43be4abe2f4a8e865b7e1
+  - enabled: 0
+    path: Assets/chapter2-3/Scenes/scene1.unity
+    guid: 58316fcaa98b8cf4db22eb97b6680cc2
+  - enabled: 0
+    path: Assets/chapter2-3/Scenes/scene2.unity
+    guid: ca209924bc8eeae41add634b4aeb7e04
+  - enabled: 0
+    path: Assets/chapter2-3/Scenes/theEnd.unity
+    guid: b30340f747a00714aa6bb113d019aee2
+  - enabled: 0
+    path: Assets/chapter2-7/wordGameStart.unity
+    guid: f48e084090cca0a40b9f7a98351adb4e
+  - enabled: 0
+    path: Assets/chapter2-7/wordGame.unity
+    guid: 30fc792f490f3a343a8cb8e4a955f259
+  - enabled: 0
+    path: Assets/chapter2-7/wordGameEnd.unity
+    guid: 1a63884f75ea5094a810ee9d3a686b48
+  - enabled: 0
+    path: Assets/chapter2-7/wordGameWin.unity
+    guid: af6844e5804d9b94399e19eb945b5538
+  - enabled: 1
+    path: Assets/infiniteRunner.unity
+    guid: 7343ace33be9f3f4c9eaf35ea5461164
+  m_configObjects: {}
